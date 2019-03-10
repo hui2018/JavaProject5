@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern="Main" type="CLASS" />
       <mapping pattern="Test" type="JAVA" />
+      <mapping pattern="lib" type="PLAIN_TEXT" />
       <mapping pattern="README" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
